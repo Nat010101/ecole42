@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carré avec Texte Centré</title>
+    <style>
+        /* Style du carré */
+        .square {
+            width: 200px; /* Largeur du carré */
+            height: 200px; /* Hauteur du carré */
+            background-color: #FF69B4; /* Couleur de fond du carré */
+            text-align: center; /* Centrer le texte horizontalement */
+            line-height: 200px; /* Centrer le texte verticalement */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="square">
+        Mon Texte
+    </div>
+
+</body>
+</html>
